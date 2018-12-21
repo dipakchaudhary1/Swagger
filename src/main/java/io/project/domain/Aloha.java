@@ -21,7 +21,7 @@ import lombok.ToString;
 @NoArgsConstructor
 @EqualsAndHashCode
 @ToString
-public class Aloha implements Serializable{
+public class    Aloha implements Serializable{
 
     private static final long serialVersionUID = 98996283192432100L;
     
